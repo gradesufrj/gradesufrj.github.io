@@ -1,7 +1,7 @@
 ## Fluxogramas disponíveis
 * [Astronomia: Ênfase em Astrofísica] [grade-astro]
-* [Engenharia de Computação e Informação] [grade-eel]
-* [Engenharia Eletrônica e de Computação] [grade-eci]
+* [Engenharia de Computação e Informação] [grade-eci]
+* [Engenharia Eletrônica e de Computação] [grade-eel]
 
 [grade-eci]: https://gremio-eci.github.io/grade/
 [grade-astro]:   https://vnakayama.github.io/grade_astrofisica/
